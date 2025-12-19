@@ -1,6 +1,6 @@
 # Relatório Final – Projeto de Introdução à Computação
 
-Projeto final da cadeira de introdução a computação
+Projeto final da cadeira de introdução à computação
 
 # Identificação do Grupo
 **Nome do grupo:** HerWare
